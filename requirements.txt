@@ -1,0 +1,6 @@
+pydantic-ai
+openai
+pypdf
+lancedb
+streamlit
+python-dotenv
